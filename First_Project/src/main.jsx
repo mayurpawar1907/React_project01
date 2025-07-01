@@ -49,7 +49,7 @@ const router = createBrowserRouter(
     },
   ],
   {
-   basename: '/React_project01' // ✅ This is required for GitHub Pages to work
+   basename: '/' // ✅ This is required for GitHub Pages to work
   }
 );
 
